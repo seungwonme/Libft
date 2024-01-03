@@ -16,7 +16,7 @@ Each function has a signature similar to standard library functions and can be e
 ## Usage
 1. Clone the project:
 ```bash
-git clone https://github.com/seungwonme/libft
+git clone https://github.com/seungwonme/libft.git
 ```
 
 2. Navigate to the project directory:
